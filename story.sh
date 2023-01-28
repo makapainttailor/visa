@@ -6,4 +6,4 @@ echo we made it here, thanks to Allah
 echo Alhamdulilahi Robil alameen
 date
 read date
-
+#today na today
