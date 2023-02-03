@@ -7,3 +7,4 @@ echo Alhamdulilahi Robil alameen
 date
 read date
 #today na today
+date #recent date
