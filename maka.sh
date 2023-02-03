@@ -1,4 +1,4 @@
-#!/bin/bash
+i#!/bin/bash
 echo this is the story of my life
 <<story
 here, i shall be highlighting 
@@ -10,3 +10,4 @@ echo today all we can say is
 echo Alhamdulilahi Robil Alameen
 date
 echo Thanks for reading.
+echo Bismillah
