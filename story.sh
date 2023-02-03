@@ -8,3 +8,5 @@ date
 read date
 #today na today
 date #recent date
+echo how are you
+
